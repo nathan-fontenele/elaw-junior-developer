@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\elaw-desenvolvedor-junior.props" />
+</Project>

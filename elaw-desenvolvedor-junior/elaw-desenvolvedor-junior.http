@@ -1,0 +1,6 @@
+@elaw_desenvolvedor_junior_HostAddress = http://localhost:5076
+
+GET {{elaw_desenvolvedor_junior_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
